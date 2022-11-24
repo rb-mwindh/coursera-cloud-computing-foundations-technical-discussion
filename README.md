@@ -13,3 +13,4 @@ This is a demo repo for the Coursera course on Cloud Computing Foundations
 
 - [Learnings](effective-technical-project-management.md)
 - [Project plan template](Project-Plan-Template.xlsx)
+- [Trello Issue Tracker](https://trello.com/b/KreMtdD0/cloud-computing-foundations)
